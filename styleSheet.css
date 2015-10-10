@@ -1,0 +1,8 @@
+body {
+    background-image: url("http://www.moibbk.com/images/toyota-tacoma-white-9.jpg");
+    overflow-style: auto;
+    background-color: rgba(0,0,0,.5);
+}
+#body {
+    background-color: rgba(0,0,0,.5);
+}
